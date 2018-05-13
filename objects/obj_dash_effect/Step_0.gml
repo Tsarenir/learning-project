@@ -5,3 +5,4 @@ if (image_alpha > 0) {
 } else {
 	instance_destroy();
 }
+test = test
